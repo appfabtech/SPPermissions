@@ -1,34 +1,34 @@
 "action allow" = "Continua";
 
-"action allowed" = "Permesso";
+"action allowed" = "Autorizzato";
 
-"titles header" = "Need Permission";
+"titles header" = "Attivazione Autorizzazioni";
 
-"titles sub header" = "Richiesta permessi";
+"titles sub header" = "Richiesta autorizzazione";
 
-"titles description" = "Questi sono i permessi che l'app richiede per funzionare correttamente. Si prega di vedere la descrizione per ogni permesso";
+"titles description" = "Queste sono le autorizzazioni che l'app richiede per funzionare correttamente. Si prega di leggere la descrizione per ogni autorizzazione";
 
-"titles comment" = "I permessi sono necessari affinché l'applicazione funzioni e funzioni correttamente. Spingere non sono permessi richiesti";
+"titles comment" = "Le autorizzazioni sono necessari affinché l'applicazione acceda correttamente alla funzionalità richieste.";
 
 "permission camera name" = "Camera";
 
-"permission camera description" = "Permetti all'app di usare la fotocamera";
+"permission camera description" = "Autorizza l'app ad accedere alla fotocamera";
 
 "permission photoLibrary name" = "Photo Library";
 
 "permission photoLibrary description" = "Accesso per salvare le foto nella tua galleria";
 
-"permission microphone name" = "Microphone";
+"permission microphone name" = "Microfono";
 
-"permission microphone description" = "Permettere di registrare la voce dall'app";
+"permission microphone description" = "Autorizza l'app ad accedere al microfono";
 
-"permission calendar name" = "Calendar";
+"permission calendar name" = "Calendario";
 
-"permission calendar description" = "L'applicazione può aggiungere eventi al calendario";
+"permission calendar description" = "Autorizza l'app ad aggiungere eventi al calendario";
 
-"permission contacts name" = "Contacts";
+"permission contacts name" = "Contatti";
 
-"permission contacts description" = "Accesso per i tuoi contatti e telefoni";
+"permission contacts description" = "Autorizza l'app ad accedere ai tuoi contatti e telefoni";
 
 "permission reminders name" = "Reminders";
 
@@ -50,9 +50,9 @@
 
 "permission bluetooth description" = "Permettere l'accesso al bluetooth";
 
-"permission notification name" = "Notification";
+"permission notification name" = "Notifiche";
 
-"permission notification description" = "Ottieni informazioni importanti senza aprire l'app";
+"permission notification description" = "Autorizza la ricezione notifiche importanti senza dover aprire l'app";
 
 "permission location when in use name" = "Location When Use";
 
@@ -78,9 +78,9 @@
 
 "permission health description" = "Consenti l'accesso ai dati sanitari";
 
-"denied alert title" = "Permesso negato";
+"denied alert title" = "Autorizzazione negata";
 
-"denied alert description" = "Per favore, vai su Impostazioni e autorizza il permesso";
+"denied alert description" = "Per favore, vai su Impostazioni -> nome applicazione -> e autorizza la funzionalità";
 
 "denied alert action" = "Impostazioni";
 
